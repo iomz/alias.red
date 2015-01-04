@@ -1,4 +1,6 @@
 font/
 img/
+vendor/
+favicon.*
 *.bak
 

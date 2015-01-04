@@ -72,7 +72,7 @@ body{
     width:100%;
     height:100%;
     color:#fff;
-    background:url(../img/bg.jpg) center center/cover no-repeat #111
+    background:url(../img/bg.png) center center/cover no-repeat #111
 }
 
 body>header{
@@ -114,6 +114,10 @@ body>div>p{
     vertical-align:middle;
     letter-spacing:.8em;
     text-shadow:0 0 3px rgba(0,0,0,.5)
+}
+
+body>div>p>img{
+    height:100px;
 }
 
 body>footer{
